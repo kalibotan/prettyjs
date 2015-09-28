@@ -17,7 +17,7 @@ for (
   ;counter--;
   some_action()
 );
-``
+```
 
 ```JavaScript
 for (var i=arr.length; i--;) 
