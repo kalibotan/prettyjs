@@ -3,11 +3,13 @@
 ## Loops
 
 ```JavaScript
-while (counter --> 0) some_action();
+while (counter --> 0)
+  some_action();
 ```
 
 ```JavaScript
-for (;counter--;) some_action();
+for (;counter--;)
+  some_action();
 ```
 
 ```JavaScript
@@ -16,3 +18,8 @@ for (
   some_action()
 );
 ``
+
+```JavaScript
+for (var i=arr.length; i--;) 
+  some_action();
+```
