@@ -3,15 +3,16 @@
 ## Loops
 
 ```JavaScript
-while (counter --> 0) 
-  some_action();
+while (counter --> 0) some_action();
+```
 
+```JavaScript
+for (;counter--;) some_action();
 ```
 
 ```JavaScript
 for (
-  var i = counter; 
-  i > 0;
-  some_action(), i--
+  ;counter--;
+  some_action()
 );
 ``
