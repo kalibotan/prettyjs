@@ -40,7 +40,5 @@ switch (true) {
 ```
 
 ```JavaScript
-  var valueMin, valueMax;
-  ...
-  flag ? (valueMax = 100) : (valueMin = -50);
+  var value = flag ? (valueMax = 100, 50) : (valueMin = -50, valueMin);
 ```
