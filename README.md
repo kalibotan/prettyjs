@@ -1,4 +1,4 @@
-# prettyjs
+# Ugletty JS
 
 ## Loops
 
@@ -22,4 +22,19 @@ for (
 ```JavaScript
 for (var i=arr.length; i--;) 
   some_action();
+```
+
+## Conditional Statements
+
+```JavaScript
+switch (true) {
+  case value > 2:
+  case value === 0:
+    some_action();
+  case value > 10:
+    other_action();
+    break;
+  default:
+    another_action();
+}
 ```
