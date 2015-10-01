@@ -38,3 +38,9 @@ switch (true) {
     another_action();
 }
 ```
+
+```JavaScript
+  var valueMin, valueMax;
+  ...
+  flag ? (valueMax = 100) : (valueMin = -50);
+```
