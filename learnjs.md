@@ -1,0 +1,15 @@
+
+- http://shichuan.github.io/javascript-patterns/
+- https://learn.javascript.ru/
+- http://nodeschool.io/ru/#workshoppers
+- http://javascriptissexy.com/how-to-learn-javascript-properly/
+- http://eloquentjavascript.net/
+- http://bonsaiden.github.io/JavaScript-Garden/ru/
+- http://wtfjs.com/
+- http://javascript.crockford.com/
+- https://docs.webplatform.org/wiki/javascript
+- http://dmitrysoshnikov.com/
+- http://htmldog.com/guides/javascript/
+- http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf
+- http://speakingjs.com/es5/index.html
+- http://perfectionkills.com/
