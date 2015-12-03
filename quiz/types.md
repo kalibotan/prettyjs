@@ -12,3 +12,15 @@ Number (IEEE 754-1985)
 123.4535.toFixed(3); //123.454
 123.5235.toFixed(3); //123.523
 ```
+
+```JavaScript
+NaN == NaN; //false
+NaN === NaN; //false
+isNaN(0/0); //true
+```
+
+```JavaScript
+function isNaN(num){
+  return num != num;
+}
+```
