@@ -30,6 +30,12 @@ str.substring(5, -1); //'JavaS'
 str.slice(5, -1); //'crip'
 ```
 
+Explain the result.
+```JavaScript
+"" == "0" //false
++"" == +"0" //true
+```
+
 Specify true conditions.
 ```JavaScript
 'а' < 'б'; //true
